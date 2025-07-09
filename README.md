@@ -41,7 +41,7 @@ RailwayBookingSystem/
 ```bash
 git clone https://github.com/Kumaran1903/Railway-Ticket-Booking-System.git
 
-cd railway-booking-java
+cd Railway-Ticket-Booking-System
 ```
 
 2. **Compile all Java files**
