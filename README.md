@@ -39,7 +39,8 @@ RailwayBookingSystem/
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/your-username/railway-booking-java.git
+git clone https://github.com/Kumaran1903/Railway-Ticket-Booking-System.git
+
 cd railway-booking-java
 ```
 
